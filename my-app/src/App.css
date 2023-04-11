@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+
+.name {
+  background-color:lightblue;
+  text-align: center;
+  padding: 20px;
+}
+
+.bio {
+  background-color:rgb(95, 178, 205);
+  text-align: center;
+  padding: 20px;
+}
+
+.interests {
+  background-color:rgb(68, 157, 186);
+  text-align: center;
+  padding: 20px;
+}
+
+.music {
+  background-color:rgb(98, 124, 197);
+  text-align: center;
+  padding: 20px;
+}
+
+.musicPics1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.musicPics2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.movies {
+  background-color:rgb(98, 124, 197);
+  text-align: center;
+  padding: 20px;
+}
+
+.moviePics {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.facts {
+  background-color:rgb(98, 124, 197);
+  text-align: center;
+  padding: 20px;
+}
+
+.funFacts {
+  text-align: center;
+  list-style-position: inside;
+}
+
+li:not(:first-of-type) {
+  margin-top: 1.5em;
+}
+
+li:not(:last-of-type) {
+  margin-bottom: 1.5em;
+}

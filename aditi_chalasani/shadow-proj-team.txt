@@ -1,0 +1,8 @@
+What is the average amount of time you spend per week (per position)?
+Overall, between all of the positions the consensus was that it widely varies per week and an exact estimate of hours is hard to say. Designers have the bulk of their workload in the first few months of the project. The project manager said this is similar for her as well but her work continues and takes roughly between an hour to four weeks per week. For programmers, they also said it varies anywhere from one to four hours. It heavily depends on work ethic and how you split your time. 
+
+How is communication with clients?
+They communicate with their clients primarily through email and Google Meet/Zoom. However, communication can be an issue sometimes such as with their EduFuturo clients who have a tough time responding in a timely manner and have also skipped meetings with no prior notice. Constant, clear contact is necessary in these situations. Sometimes, compromise is needed as well as a lack of communication on their end can result in us not being able to reach all the original goals set up. 
+
+What does task delegation look like?
+The tech leads assign the specific programming tasks to the programmers. They either offer up certain responsibilities and ask if anyone is willing to take it on or delegate tasks based on their judgment of who would be able to complete it best while considering each individual skillset and prior (along with current) responsibilities as well. 
