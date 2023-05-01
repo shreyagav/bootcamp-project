@@ -12,10 +12,10 @@ function App() {
     case "/":
       component = <Home />
       break
-    case "/movies":
+    case "/OURPAGES":
       component = <OURPAGES />
       break
-    case "/anime":
+    case "/TEAMROLES":
       component = <TEAMROLES />
       break
   }
