@@ -22,6 +22,12 @@
     fill: solid;
 }
 
+.imageAdjust {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
 .row {
     display: flex;
     justify-content: space-evenly;
@@ -31,6 +37,23 @@
     display: flex;
     justify-content: space-evenly;
     left: 400px;
+}
+
+.willAndShreyesDiv {
+    margin-right: 100px;
+}
+
+.aditiDiv {
+    margin-top: 200px;
+}
+
+.abhiDiv {
+    margin-top: 400px;
+}
+
+.shreyaAndTarunDiv {
+    margin-top: 400px;
+    margin-right: 100px;
 }
 
 .titleName {
@@ -64,4 +87,24 @@
     color: #6F7CB2;
     text-align: left;
     vertical-align: top;
+}
+
+.willPic {
+    height: 400px;
+    width: 200px;
+}
+
+.aditiAndShreyaPic {
+    height: 350px;
+    width: 300px;
+}
+
+.shreyesAndTarunPic {
+    height: 350px;
+    width: 300px;
+}
+
+.abhiPic {
+    height: 350px;
+    width: 400px;
 }
