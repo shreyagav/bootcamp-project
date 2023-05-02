@@ -90,6 +90,55 @@ nav li:hover{
   color: #091133;
   fill: solid;
 }
+.imageAdjust {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.willAndShreyesDiv {
+  margin-right: 100px;
+}
+
+.aditiDiv {
+  margin-top: 200px;
+}
+
+.abhiDiv {
+  margin-top: 400px;
+}
+
+.shreyaAndTarunDiv {
+  margin-top: 400px;
+  margin-right: 100px;
+}
+
+.abhiPic{
+  height: 250px;
+  width: 350px;
+}
+.aditiPic {
+  height: 300px;
+  width: 250px;
+}
+
+.willPic {
+  height: 200px;
+  width: 200px;
+}
+
+.tarunPic{
+  height: 325px;
+  width: 300px;
+}
+.shreyaPic {
+  height: 325px;
+  width: 300px;
+}
+.shreyesPic {
+  height: 300px;
+  width: 250px;
+}
 
 .row {
   display: flex;
