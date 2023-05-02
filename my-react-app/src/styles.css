@@ -65,3 +65,188 @@ body{
 nav li:hover{
     background-color: #777;
 }
+
+#overallPage {
+  background-color: #F0F0F0;
+}
+
+#headerContainer {
+  width: 1440px;
+  height: 86px;
+  top: 2037px;
+  text-align: center;
+}
+
+#headerText {
+  font-family: Roboto;
+  font-style: medium;
+  font-size: 85px;
+  line-height: 48px;
+  line-height: 48%;
+  text-align: center;
+  vertical-align: top;
+  position: relative;
+  top: 25px;
+  color: #091133;
+  fill: solid;
+}
+.imageAdjust {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.willAndShreyesDiv {
+  margin-right: 100px;
+}
+
+.aditiDiv {
+  margin-top: 200px;
+}
+
+.abhiDiv {
+  margin-top: 400px;
+}
+
+.shreyaAndTarunDiv {
+  margin-top: 400px;
+  margin-right: 100px;
+}
+
+.abhiPic{
+  height: 250px;
+  width: 350px;
+}
+.aditiPic {
+  height: 300px;
+  width: 250px;
+}
+
+.willPic {
+  height: 200px;
+  width: 200px;
+}
+
+.tarunPic{
+  height: 325px;
+  width: 300px;
+}
+.shreyaPic {
+  height: 325px;
+  width: 300px;
+}
+.shreyesPic {
+  height: 300px;
+  width: 250px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.rowAdjusted {
+  display: flex;
+  justify-content: space-evenly;
+  left: 400px;
+}
+
+.titleName {
+  font-family: Roboto;
+  font-style: medium;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  line-height: 114%;
+  text-align: left;
+  vertical-align: top;
+  color: #091133;
+  fill: solid;
+}
+
+.actualName {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #6F7CB2;
+  text-align: left;
+  vertical-align: top;
+  fill: solid;
+}
+
+.aspiringText {
+  font-family: Roboto;
+  font-size: 20px;
+  line-height: 26px;
+  color: #6F7CB2;
+  text-align: left;
+  vertical-align: top;
+}
+
+.container3 {
+  min-height: 100vh;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.logo-container img {
+  height: 120px;
+  margin: 0 40px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.navigate {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.navigate p {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.members {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.button {
+  background-color: white;
+color: black;
+border: 2px solid black;
+padding: 10px 20px;
+margin: 10px;
+text-align: center;
+display: inline-block;
+font-size: 18px;
+font-weight: bold;
+text-decoration: none;
+}  

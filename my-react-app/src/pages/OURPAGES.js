@@ -1,8 +1,6 @@
-import './OurPages.css';
-
-export default function OurPages() {
-  return (
-    <div className="container">
+export default function OURPAGES(){
+    return(
+        <div className="container3">
       <header>
         <div className="logo-container">
           <img
@@ -46,5 +44,6 @@ export default function OurPages() {
         </div>
       </main>
     </div>
-  );
+    ) 
 }
+

@@ -3,24 +3,22 @@ import Navigation from "./Navigation"
 import OURPAGES from "./pages/OURPAGES"
 import Home from "./pages/Home"
 import TEAMROLES from './pages/TEAMROLES';
+import { Route, Routes } from "react-router-dom"
 
-
-
-function App() {
+function App() {  
   let component
   switch(window.location.pathname){ 
     case "/":
-      component = <Home />
+      component = <Home /> 
       break
-    case "/OURPAGES":
+    case "/OURPAGES": 
       component = <OURPAGES />
       break
     case "/TEAMROLES":
       component = <TEAMROLES />
       break
   }
-
-  return (
+ return (
   <>
     <Navigation/>
       <div className="container">
