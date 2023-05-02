@@ -1,6 +1,6 @@
 body{
     box-sizing: border-box;
-    background-color: #F0F0F0;
+    background-color: white;
     color: #A9D3AB;
 }
 
@@ -17,7 +17,7 @@ body{
 
   .title {
     font-family: Roboto Serif;
-    font-size: 110px;
+    font-size: 140px;
     text-align: left;
     padding-left: 2rem;
   }
@@ -25,7 +25,7 @@ body{
   .subtitle {
     color: #BBBBBB;
     font-family: Roboto Serif;
-    font-size: 66px;
+    font-size: 90px;
     text-align: left;
     padding-left: 2rem;
   }
@@ -34,7 +34,7 @@ body{
     text-align: center;
 }
 .nav{
-    background-color: #A9D3AB;
+    background-color: transparent;
     color: #505F98;
     display: flex;
     justify-content: space-between; 
@@ -43,7 +43,24 @@ body{
     padding: 1rem;
 }
 .site-title{
-    font-size: 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pageText{
+  float: left; 
+}
+.homePic{
+  float: right;
+  height: auto;  
+  max-width: 100%;  
+}
+
+.nationalWebpage{
+  margin-left: auto;
+  background-color: #1B4EA3;
+  color: white;
 }
 .nav ul{
     padding: 0;
@@ -63,7 +80,7 @@ body{
 }
 
 nav li:hover{
-    background-color: #777;
+    background-color: #A9D3AB;
 }
 
 #overallPage {
