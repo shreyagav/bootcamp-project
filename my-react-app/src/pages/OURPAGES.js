@@ -1,6 +1,6 @@
 export default function OURPAGES(){
     return(
-        <div className="container">
+        <div className="container3">
       <header>
         <div className="logo-container">
           <img
