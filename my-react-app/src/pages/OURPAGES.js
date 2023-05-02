@@ -29,7 +29,7 @@ export default function OurPages() {
               Shreya Gavarapattu
             </a>
             <a className="button" href="member3-react-app-url">
-              Shreyes Verde
+              Shreyes Varde
             </a>
           </div>
           <div className="row">
