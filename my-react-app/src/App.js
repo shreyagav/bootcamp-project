@@ -22,11 +22,7 @@ function App() {
   <>
     <Navigation/>
       <div className="container">
-      <Routes> 
-            <Route path="/" component={<Home/> } /> 
-            <Route path="/team roles" component={<TEAMROLES/> } /> 
-            <Route path="/our pages" component={<OURPAGES/> } /> 
-       </Routes> 
+      {component}
       </div>
   </>
   )
